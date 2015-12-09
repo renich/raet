@@ -54,7 +54,7 @@ Furthermore, TLS is also problematic as a security system both from performance
 and vulnerabilty aspects.
 
 Elliptic Curve Cryptography, on the other hand, provides increases in security
-with lower performance requirements relative to over other approaches.
+with lower performance requirements relative to other approaches.
 LibSodium provides an open source Elliptic Curve Cryptographic library with support
 for both authentication and encryption. The CurveCP protocol is based on LibSodium
 and provides a handshake protocol for bootstrapping secure network exchanges of information.
